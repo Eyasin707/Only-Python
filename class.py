@@ -1,3 +1,5 @@
+''' this is a very Basic class example which over the time will be improved and end up being a very inclusive example for class in python '''
+
 class person():
     def __init__(self, name, age):
         self.name= name
